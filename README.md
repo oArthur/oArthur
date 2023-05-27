@@ -1,6 +1,6 @@
 ## Hello Folks!I'm Arthur 👋🏻 
 - Computer Science Student;
-- Front-End Developer;
+- Full-Stack Developer;
 
 ![img](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)
 
