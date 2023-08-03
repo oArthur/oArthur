@@ -2,7 +2,6 @@
 - Computer Science Student;
 - Full-Stack Developer;
 
-![img](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)
 
 
 <div>
